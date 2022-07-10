@@ -3,6 +3,7 @@
 # remove-duplicates-from-linked-list
 
 Difficulty: easy
+
   You're given the head of a Singly Linked List whose nodes are in sorted order
   with respect to their values. Write a function that returns a modified version
   of the Linked List that doesn't contain any nodes with duplicate values. The
